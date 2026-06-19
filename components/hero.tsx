@@ -7,7 +7,7 @@ export default function Hero(){
           className="h-screen flex  text-white" 
           style={{backgroundImage:"url('/image.png')", backgroundSize:"cover", backgroundPosition:"center"}}
         >
-          <Navbar/>
+          
           <div className="w-xl mx-4 md:mx-6 lg:mx-8 my-60">
             <h1 className="text-6xl">Student Affairs Office</h1>
             <br />
@@ -39,7 +39,7 @@ export default function Hero(){
                   py-3
                   text-white
                 ">
-                  <Link href={"/campusLife"}>Explore Campus Life</Link>
+                  <Link href={"/campusLife"} >Explore Campus Life</Link>
               </button>
         
               <span

@@ -4,7 +4,6 @@ import Link from "next/link";
 export default function CampusLife() {
   return (
     <main className="bg-[#F8F5EE] text-[#2D2D2D]">
-    <Navbar/>
       {/* Hero Section */}
       <section className="min-h-screen flex flex-col lg:flex-row items-center justify-between max-w-7xl mx-auto px-8 lg:px-16 py-20 gap-12">
 

@@ -4,7 +4,8 @@ export default function Navbar(){
     return (
         <nav className="
         flex
-        text-black 
+        text-white
+        text-sm md:text-md lg:text-xl 
         items-center justify-between 
         px-4 md:px-6 lg:px-8 py-2 
         gap-2 
