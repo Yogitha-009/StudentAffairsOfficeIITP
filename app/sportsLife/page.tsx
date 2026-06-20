@@ -21,7 +21,7 @@ export default function SportsFacilities() {
   ];
 
   return (
-    <div className="w-full bg-[#F8F5EE] ">
+    <div className="w-full bg-[#F8F5EE] h-screen">
     <div className="max-w-6xl mx-auto px-6 py-24 border-t border-[#B6A994]/30 space-y-16">
       
       <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 pb-6 border-b border-[#B6A994]/40">

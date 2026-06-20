@@ -28,7 +28,7 @@ const allHostels=[
   },
   {
     name:"Married Hostel",
-    image:"https://iwd.iitp.ac.in/images/iwd/Girls_Hostel_2.jpg",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR7EZdLeDxoZ_CMbiX7Dt8Jhlc3pPFBdW3UyGh-oajNmuJNf6gRfk1qzyp&s=10",
     flipName:"Married Hostel",
     description:"Married Scholar's Apartments: IIT Patna provides two dedicated married scholar's apartments (often referred to as the Married Research Scholar's Hostel or MRSH) tailored for Master's and PhD students living with their spouses."
   }
